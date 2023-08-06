@@ -4,7 +4,8 @@
 const justine = {
   user: {
     name: 'Justine Patoux',
-    gender: 'female'
+    gender: 'female',
+    languages: ['french', 'english']
   },
   contact: {
     email: justine.patoux@gmail.com
