@@ -4,7 +4,7 @@
 const justine = {
   user: {
     name: 'Justine Patoux',
-    gender: 'female',
+    gender: 'female'
   },
   contact: {
     email: justine.patoux@gmail.com
@@ -12,7 +12,7 @@ const justine = {
   interests: ['digital painting', 'videogames'],
   technologies: {
     languages: ['PHP', 'Javascript'],
-    frontend: ['HTML', 'CSS', 'Sass', 'Bootstrap'],
+    frontend: ['HTML', 'CSS', 'Sass', 'Bootstrap']
   }
 }
 ```
