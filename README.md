@@ -9,7 +9,7 @@ const justine = {
   contact: {
     email: justine.patoux@gmail.com
   },
-  interests: ['digital painting', 'videogames'],
+  interests: ['design', 'illustration', 'digital painting', 'videogames'],
   technologies: {
     languages: ['PHP', 'Javascript'],
     frontend: ['HTML', 'CSS', 'Sass', 'Bootstrap']
