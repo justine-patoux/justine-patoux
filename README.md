@@ -12,7 +12,7 @@ const justine = {
   },
   interests: ['digital painting', 'illustration', 'videogames'],
   technologies: {
-    languages: ['javascript'],
+    languages: ['javascript', 'php'],
     frontend: ['html', 'css', 'sass', 'bootstrap']
   }
 }
